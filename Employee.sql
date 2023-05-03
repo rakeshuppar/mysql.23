@@ -66,7 +66,6 @@ deptno int
 );
 
 
-
 insert into empl1 values(8369,"SMITHA","CLERK","1965-06-01",8902,"1990-12-18",800,200,20);
 insert into empl1 values(8499,"ANYA","SALESMAN","1964-05-02",8698,"1991-02-20",1600,300,30);
 insert into empl1 values(8521,"SETH","SALESMAN","1964-10-10",8698,"1991-02-22",1250,500,30);

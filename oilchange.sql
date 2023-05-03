@@ -94,3 +94,5 @@ select min(cost) , max(cost) from customerRecords;
 
 
 select avg(cost) from customerRecords;
+
+select 
